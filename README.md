@@ -12,7 +12,7 @@
 - [Bulk redirect for host](./src/redirect-by-hostmap.js)
 - [Bulk redirect for path](./src/redirect-by-pathmap.js)
 - [DNS over HTTPS](./src/dns-over-https.js)
-- [Return client info as application/json](./src/return-clint-info.js)
+- [Return client info as application/json](./src/return-client-info.js)
 - [Return client IP as text/plain](./src/return-client-ip.js)
 - [Return client local time as text/plain](./src/return-client-date.js)
 - [Return Cloudflare ray](./src/return-cloudflare-ray.js)
